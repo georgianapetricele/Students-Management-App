@@ -1,5 +1,5 @@
 # Students Management App
-An application made during the Systems for Design and Implementation (Medii de proiectare și programare) course, that manages users and students
+An application made during the Systems for Design and Implementation (Medii de proiectare și programare) course, that stores, generates and manages users and students entities
 
 # Login Register Authentification
 - Implemented login/register capabilities for the users of application
