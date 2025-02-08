@@ -14,7 +14,7 @@ An application made during the Systems for Design and Implementation (Medii de p
 # Functionalities
 - Login and registration
 - Profile page
-- Retrieval of users and students list
+- Retrieval of users and students paginated lists
 - CRUD operations on both users and students
 - Details page
 - Charts page
